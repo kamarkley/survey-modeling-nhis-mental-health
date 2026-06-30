@@ -14,7 +14,7 @@ Using microdata from the National Health Interview Survey (**NHIS**), this study
 
 ---
 
-## 📊 Data Engineering & Variable Design
+## Data Engineering & Variable Design
 
 The data processing architecture translates raw survey responses into standardized clinical and exposure benchmarks:
 * **The K6 Mental Health Index:** Aggregates 6 non-specific psychological distress markers (`AEFFORT`, `AWORTHLESS`, `AHOPELESS`, `ANERVOUS`, `ARESTLESS`, `ASAD`) scored via a vector summation loop. 
